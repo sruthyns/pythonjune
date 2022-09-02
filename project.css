@@ -1,0 +1,125 @@
+.d {
+    background-color: #f8f6f6;
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+
+}
+
+#head {
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    color: #690f0f;
+    font-size: 50px;
+
+}
+
+#d1 {
+
+    width: 99%;
+    position: absolute;
+    font-family: 'Luckiest Guy', cursive;
+    background-color: #f8f6f6;
+    border-radius: 10px;
+
+}
+
+
+.topnav {
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+
+
+}
+
+.topnav a {
+
+    float: left;
+    display: block;
+    color: #5f0303;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #f8f6f6;
+    font-size: medium;
+    font-family: 'Luckiest Guy', cursive
+}
+
+.topnav a:hover {
+    background-color: rgb(80, 5, 5);
+    color: rgb(250, 245, 245);
+}
+
+.column {
+    float: left;
+    width: 25%;
+    height:500px;
+    margin-top: 20px;
+    margin-left: 5px;
+    background-color: rgb(255, 255, 255);
+    border: solid 3px rgb(196, 192, 192);
+    border-radius: 10px;
+    background-image: url("./images/kahve.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.middle {
+    float: left;
+    width: 43%;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(240, 234, 232);
+    border: solid 3px rgb(196, 192, 192);
+    font-size: medium;
+    font-family: 'Luckiest Guy', cursive;
+    color: #5f0303;
+
+}
+.end{
+    float: left;
+    width: 30%;
+    height:500px;
+    margin-top: 20px;
+    margin-left: 5px;
+    background-color: rgb(255, 255, 255);
+    border: solid 3px rgb(196, 192, 192);
+    border-radius: 10px;
+    background-image: url("./images/coffeeday.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.order{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(240, 234, 231);
+    color: rgb(107, 3, 3);
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+}
+select {
+    width: 35%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    background-color:rgb(107, 3, 3);
+    color: #f8f6f6;
+  }
+  #submit{
+    background-color:rgb(107, 3, 3);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: rgb(107, 3, 3);
+    margin-top: 535px;
+    border-radius: 10px;
+  }
