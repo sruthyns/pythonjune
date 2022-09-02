@@ -66,7 +66,7 @@
 }
 .middle {
     float: left;
-    width: 38%;
+    width: 75%;
     height: 500px;
     margin-top: 20px;
     border-radius: 10px;
@@ -77,7 +77,7 @@
     color: #5f0303;
 
 }
-.end{
+/* .end{
     float: left;
     width: 30%;
     height:500px;
@@ -90,7 +90,7 @@
     background-size: cover;
     background-repeat: no-repeat;
 
-}
+} */
 .order{
     height: 350px;
     width: 100%;
